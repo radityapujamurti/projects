@@ -2,7 +2,7 @@
 layout: post
 title: Monitor Stock Price With Python and Streamlit
 cover: basic_streamlit.gif
-excerpt: Monitor Stock Price With Python and Streamlit
+excerpt: Creating a web app using Python becomes enjoyable, thanks to Streamlit. In this project, I created a web app that downloads ticker data from Yahoo Finance and displayed the price on a candle chart with the help of Plotly library.
 ---
 
 Creating a web app using Python becomes enjoyable, thanks to Streamlit. In this project, I created a web app that downloads ticker data from Yahoo Finance and displayed the price on a candle chart with the help of Plotly library.
